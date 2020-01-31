@@ -12,7 +12,6 @@
     "nuxt-start": "2.11.0"
   },
   "devDependencies": {
-    "nuxt": "2.11.0",
     "nodemon": "1.18.4"
   },
   "keywords": []
