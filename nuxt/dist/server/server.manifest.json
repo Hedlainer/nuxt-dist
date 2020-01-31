@@ -1,0 +1,9 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages_about.bundle.js": "pages_about.bundle.js",
+    "pages_index.bundle.js": "pages_index.bundle.js",
+    "server.js": "server.js"
+  },
+  "maps": {}
+}
